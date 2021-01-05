@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-facelettaglibrary_2_2.xsd">
  
-  <namespace>http://ciceroednilson.com.br/LocalDateTimeConverter</namespace>
+  <namespace>https://github.com/diegotpereira/LocalDateTimeConverter</namespace>
    <tag>
     <tag-name>LocalDateTimeConverter</tag-name>
     <converter>
