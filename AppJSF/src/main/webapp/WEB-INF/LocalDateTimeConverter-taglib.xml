@@ -8,7 +8,7 @@
    <tag>
     <tag-name>LocalDateTimeConverter</tag-name>
     <converter>
-     <converter-id>br.com.ciceroednilson.uteis.LocalDateTimeConverter</converter-id>
+     <converter-id>br.com.java.uteis.LocalDateTimeConverter</converter-id>
     </converter>
    </tag>
 </facelet-taglib>
